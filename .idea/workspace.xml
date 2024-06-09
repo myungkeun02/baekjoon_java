@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="" />
+    <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/_10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/_15552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/_25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/_25314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/_8393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_2525.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_2884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/_9498.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +33,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "myungkeun02"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/myungkeun02/baekjoon_java.git",
+    "accountId": "0b283b25-1e50-41bc-be76-1d1c8ffd0d79"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -29,14 +60,29 @@
     "Application.APlusB1000.executor": "Run",
     "Application._1000.executor": "Run",
     "Application._10171.executor": "Run",
+    "Application._10172.executor": "Run",
     "Application._10430.executor": "Run",
     "Application._10869.executor": "Run",
     "Application._10926.executor": "Run",
+    "Application._10950.executor": "Run",
     "Application._109989.executor": "Run",
     "Application._11382.executor": "Run",
+    "Application._1330.executor": "Run",
+    "Application._15552.executor": "Run",
     "Application._18108.executor": "Run",
+    "Application._2480.executor": "Run",
+    "Application._2525.executor": "Run",
+    "Application._25304.executor": "Run",
+    "Application._25314.executor": "Run",
     "Application._2588.executor": "Run",
+    "Application._2739.executor": "Run",
+    "Application._2753.executor": "Run",
+    "Application._2884.executor": "Run",
+    "Application._8393.executor": "Run",
+    "Application._9498.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/choemyeong-geun/Desktop/DEVELOP/JAVA/백준/out",
     "node.js.detected.package.eslint": "true",
@@ -52,17 +98,18 @@
       <recent name="$PROJECT_DIR$/out" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="반복문" />
       <recent name="입출력과사칙연산" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._10172">
-    <configuration name="_10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="입출력과사칙연산._10171" />
+  <component name="RunManager" selected="Application._15552">
+    <configuration name="_10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="반복문._10950" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="입출력과사칙연산.*" />
+          <option name="PATTERN" value="반복문.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="입출력과사칙연산._10172" />
+    <configuration name="_15552" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="반복문._15552" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="입출력과사칙연산.*" />
+          <option name="PATTERN" value="반복문.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="입출력과사칙연산._10430" />
+    <configuration name="_25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="반복문._25304" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="입출력과사칙연산.*" />
+          <option name="PATTERN" value="반복문.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="입출력과사칙연산._11382" />
+    <configuration name="_25314" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="반복문._25314" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="입출력과사칙연산.*" />
+          <option name="PATTERN" value="반복문.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="입출력과사칙연산._2588" />
+    <configuration name="_8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="반복문._8393" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="입출력과사칙연산.*" />
+          <option name="PATTERN" value="반복문.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._10172" />
-        <item itemvalue="Application._10171" />
-        <item itemvalue="Application._11382" />
-        <item itemvalue="Application._2588" />
-        <item itemvalue="Application._10430" />
+        <item itemvalue="Application._15552" />
+        <item itemvalue="Application._25314" />
+        <item itemvalue="Application._25304" />
+        <item itemvalue="Application._8393" />
+        <item itemvalue="Application._10950" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +195,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717677273818</updated>
-      <workItem from="1717677275349" duration="4785000" />
+      <workItem from="1717677275349" duration="15535000" />
     </task>
     <servers />
   </component>
