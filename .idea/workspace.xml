@@ -5,43 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/조건문/_10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/_10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/_11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/_11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/_15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/_2439.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_2562.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/반복문/_10950.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/반복문/_10950.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/반복문/_15552.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/반복문/_15552.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/반복문/_25304.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/반복문/_25304.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/반복문/_25314.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/반복문/_25314.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/반복문/_2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/반복문/_2739.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/반복문/_8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/반복문/_8393.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_1000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_1001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_1008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10171.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10171.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10172.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10172.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10430.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10430.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10869.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10869.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10926.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_10926.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_109989.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_109989.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_11382.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_11382.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_18108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_18108.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_2557.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_2557.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_2588.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/입출력과사칙연산/_2588.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_1330.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_14681.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_14681.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_2480.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_2480.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_2525.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_2525.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_2753.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_2753.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_2884.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_2884.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/조건문/_9498.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/조건문/_9498.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +52,10 @@
     "Application._10171.executor": "Run",
     "Application._10172.executor": "Run",
     "Application._10430.executor": "Run",
+    "Application._10807.executor": "Run",
+    "Application._10818.executor": "Run",
     "Application._10869.executor": "Run",
+    "Application._10871.executor": "Run",
     "Application._10926.executor": "Run",
     "Application._10950.executor": "Run",
     "Application._10951.executor": "Run",
@@ -102,6 +73,7 @@
     "Application._2525.executor": "Run",
     "Application._25304.executor": "Run",
     "Application._25314.executor": "Run",
+    "Application._2562.executor": "Run",
     "Application._2588.executor": "Run",
     "Application._2739.executor": "Run",
     "Application._2753.executor": "Run",
@@ -133,7 +105,46 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._10951">
+  <component name="RunManager" selected="Application._2562">
+    <configuration name="_10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._10807" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._10818" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._10871" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="조건문._10951" />
       <module name="백준" />
@@ -147,51 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="조건문._10952" />
+    <configuration name="_2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._2562" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="조건문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_11022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="조건문._11022" />
-      <module name="백준" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="조건문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="조건문._2438" />
-      <module name="백준" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="조건문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="조건문._2439" />
-      <module name="백준" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="조건문.*" />
+          <option name="PATTERN" value="_1차원배열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2562" />
+        <item itemvalue="Application._10818" />
+        <item itemvalue="Application._10871" />
+        <item itemvalue="Application._10807" />
         <item itemvalue="Application._10951" />
-        <item itemvalue="Application._10952" />
-        <item itemvalue="Application._2439" />
-        <item itemvalue="Application._2438" />
-        <item itemvalue="Application._11022" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717677273818</updated>
       <workItem from="1717677275349" duration="15535000" />
-      <workItem from="1718027051797" duration="5710000" />
+      <workItem from="1718027051797" duration="13557000" />
     </task>
     <servers />
   </component>
