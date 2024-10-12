@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_10807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_10810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_10811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_10813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_5597.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/백준/_1차원배열/_2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/_1차원배열/_2562.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,9 @@
     "Application._10172.executor": "Run",
     "Application._10430.executor": "Run",
     "Application._10807.executor": "Run",
+    "Application._10810.executor": "Run",
+    "Application._10811.executor": "Run",
+    "Application._10813.executor": "Run",
     "Application._10818.executor": "Run",
     "Application._10869.executor": "Run",
     "Application._10871.executor": "Run",
@@ -78,6 +84,8 @@
     "Application._2739.executor": "Run",
     "Application._2753.executor": "Run",
     "Application._2884.executor": "Run",
+    "Application._3052.executor": "Run",
+    "Application._5597.executor": "Run",
     "Application._8393.executor": "Run",
     "Application._9498.executor": "Run",
     "Application.조건문._15552.executor": "Run",
@@ -105,9 +113,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._2562">
-    <configuration name="_10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._10807" />
+  <component name="RunManager" selected="Application._10811">
+    <configuration name="_10810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._10810" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._10818" />
+    <configuration name="_10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._10811" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._10871" />
+    <configuration name="_10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._10813" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="조건문._10951" />
+    <configuration name="_3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._3052" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="조건문.*" />
+          <option name="PATTERN" value="_1차원배열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._2562" />
+    <configuration name="_5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1차원배열._5597" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._2562" />
-        <item itemvalue="Application._10818" />
-        <item itemvalue="Application._10871" />
-        <item itemvalue="Application._10807" />
-        <item itemvalue="Application._10951" />
+        <item itemvalue="Application._10811" />
+        <item itemvalue="Application._3052" />
+        <item itemvalue="Application._5597" />
+        <item itemvalue="Application._10813" />
+        <item itemvalue="Application._10810" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +206,9 @@
       <option name="presentableId" value="Default" />
       <updated>1717677273818</updated>
       <workItem from="1717677275349" duration="15535000" />
-      <workItem from="1718027051797" duration="13557000" />
+      <workItem from="1718027051797" duration="13590000" />
+      <workItem from="1718542974082" duration="9459000" />
+      <workItem from="1728722048730" duration="9207000" />
     </task>
     <servers />
   </component>
