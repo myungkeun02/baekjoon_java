@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_10810.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_10811.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_10813.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_3052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1차원배열/_5597.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1차원배열/_1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_9086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/_1차원배열/_2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/_1차원배열/_2562.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Application._10172.executor": "Run",
     "Application._10430.executor": "Run",
     "Application._10807.executor": "Run",
+    "Application._10809.executor": "Run",
     "Application._10810.executor": "Run",
     "Application._10811.executor": "Run",
     "Application._10813.executor": "Run",
@@ -70,7 +71,10 @@
     "Application._11021.executor": "Run",
     "Application._11022.executor": "Run",
     "Application._11382.executor": "Run",
+    "Application._11654.executor": "Run",
+    "Application._11720.executor": "Run",
     "Application._1330.executor": "Run",
+    "Application._1546.executor": "Run",
     "Application._15552.executor": "Run",
     "Application._18108.executor": "Run",
     "Application._2438.executor": "Run",
@@ -82,11 +86,14 @@
     "Application._2562.executor": "Run",
     "Application._2588.executor": "Run",
     "Application._2739.executor": "Run",
+    "Application._2743.executor": "Run",
     "Application._2753.executor": "Run",
+    "Application._27866.executor": "Run",
     "Application._2884.executor": "Run",
     "Application._3052.executor": "Run",
     "Application._5597.executor": "Run",
     "Application._8393.executor": "Run",
+    "Application._9086.executor": "Run",
     "Application._9498.executor": "Run",
     "Application.조건문._15552.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -113,13 +120,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._10811">
-    <configuration name="_10810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._10810" />
+  <component name="RunManager" selected="Application._10809">
+    <configuration name="_10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._10809" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="PATTERN" value="문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._10811" />
+    <configuration name="_11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._11654" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="PATTERN" value="문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._10813" />
+    <configuration name="_11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._11720" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="PATTERN" value="문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._3052" />
+    <configuration name="_2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2743" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="PATTERN" value="문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1차원배열._5597" />
+    <configuration name="_9086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._9086" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1차원배열.*" />
+          <option name="PATTERN" value="문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._10811" />
-        <item itemvalue="Application._3052" />
-        <item itemvalue="Application._5597" />
-        <item itemvalue="Application._10813" />
-        <item itemvalue="Application._10810" />
+        <item itemvalue="Application._10809" />
+        <item itemvalue="Application._11720" />
+        <item itemvalue="Application._11654" />
+        <item itemvalue="Application._9086" />
+        <item itemvalue="Application._2743" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +215,7 @@
       <workItem from="1717677275349" duration="15535000" />
       <workItem from="1718027051797" duration="13590000" />
       <workItem from="1718542974082" duration="9459000" />
-      <workItem from="1728722048730" duration="9207000" />
+      <workItem from="1728722048730" duration="20072000" />
     </task>
     <servers />
   </component>
