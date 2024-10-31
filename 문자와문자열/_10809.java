@@ -16,7 +16,7 @@ public class _10809 {
             } else {
                 bw.write("-1");
             }
-            bw.write(" ");  // 각 결과 사이에 공백 추가
+            bw.write(" ");
         }
         bw.flush();
         br.close();
