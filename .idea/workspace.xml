@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="" />
+    <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_10988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_2444.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_3003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +65,13 @@
     "Application._10950.executor": "Run",
     "Application._10951.executor": "Run",
     "Application._10952.executor": "Run",
+    "Application._10988.executor": "Run",
     "Application._109989.executor": "Run",
     "Application._11021.executor": "Run",
     "Application._11022.executor": "Run",
     "Application._11382.executor": "Run",
     "Application._1152.executor": "Run",
+    "Application._1157.executor": "Run",
     "Application._11654.executor": "Run",
     "Application._11718.executor": "Run",
     "Application._11720.executor": "Run",
@@ -72,6 +81,7 @@
     "Application._18108.executor": "Run",
     "Application._2438.executor": "Run",
     "Application._2439.executor": "Run",
+    "Application._2444.executor": "Run",
     "Application._2480.executor": "Run",
     "Application._25083.executor": "Run",
     "Application._2525.executor": "Run",
@@ -86,6 +96,8 @@
     "Application._27866.executor": "Run",
     "Application._2884.executor": "Run",
     "Application._2908.executor": "Run",
+    "Application._2941.executor": "Run",
+    "Application._3003.executor": "Run",
     "Application._3052.executor": "Run",
     "Application._5597.executor": "Run",
     "Application._5622.executor": "Run",
@@ -117,9 +129,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._25083">
-    <configuration name="_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._1152" />
+  <component name="RunManager" selected="Application._2941">
+    <configuration name="_10988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._10988" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._11718" />
+    <configuration name="_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._1157" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_25083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._25083" />
+    <configuration name="_2444" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2444" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -157,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._2908" />
+    <configuration name="_2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2941" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -170,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5622" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._5622" />
+    <configuration name="_3003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._3003" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -185,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._25083" />
-        <item itemvalue="Application._11718" />
-        <item itemvalue="Application._5622" />
-        <item itemvalue="Application._2908" />
-        <item itemvalue="Application._1152" />
+        <item itemvalue="Application._2941" />
+        <item itemvalue="Application._1157" />
+        <item itemvalue="Application._10988" />
+        <item itemvalue="Application._2444" />
+        <item itemvalue="Application._3003" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +226,7 @@
       <workItem from="1718542974082" duration="9459000" />
       <workItem from="1728722048730" duration="23818000" />
       <workItem from="1728992590555" duration="6000" />
-      <workItem from="1730247208518" duration="9914000" />
+      <workItem from="1730247208518" duration="20668000" />
     </task>
     <servers />
   </component>
