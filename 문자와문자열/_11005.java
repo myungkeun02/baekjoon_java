@@ -14,8 +14,25 @@ public class _11005 {
 
         int N = Integer.parseInt(st.nextToken());
         int B = Integer.parseInt(st.nextToken());
-        for (int i = N; i <= 0; i= i / B) {
 
+        if (N == 0) {
+            sb.append("0");
+        } else {
+            int number = N;
+            while (number > 0) {
+                int remainder = number % B;
+                if (remainder >= 10) {
+                    sb.append((char) ('A' + (remainder - 10)));
+                } else {
+                    sb.append(remainder);
+                }
+                number /= B;
+            }
+            sb.reverse();
         }
+        bw.write(sb.toString());
+        bw.flush();
+        bw.close();
+        br.close();
     }
 }
