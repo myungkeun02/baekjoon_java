@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/문자와문자열/_1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/문자와문자열/_2675.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_1193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_2292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/문자와문자열/_2869.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/문자와문자열/_10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/문자와문자열/_10809.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,68 +45,87 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.APlusB1000.executor": "Run",
-    "Application._1000.executor": "Run",
-    "Application._10171.executor": "Run",
-    "Application._10172.executor": "Run",
-    "Application._10430.executor": "Run",
-    "Application._10807.executor": "Run",
-    "Application._10809.executor": "Run",
-    "Application._10810.executor": "Run",
-    "Application._10811.executor": "Run",
-    "Application._10813.executor": "Run",
-    "Application._10818.executor": "Run",
-    "Application._10869.executor": "Run",
-    "Application._10871.executor": "Run",
-    "Application._10926.executor": "Run",
-    "Application._10950.executor": "Run",
-    "Application._10951.executor": "Run",
-    "Application._10952.executor": "Run",
-    "Application._109989.executor": "Run",
-    "Application._11021.executor": "Run",
-    "Application._11022.executor": "Run",
-    "Application._11382.executor": "Run",
-    "Application._11654.executor": "Run",
-    "Application._11720.executor": "Run",
-    "Application._1330.executor": "Run",
-    "Application._1546.executor": "Run",
-    "Application._15552.executor": "Run",
-    "Application._18108.executor": "Run",
-    "Application._2438.executor": "Run",
-    "Application._2439.executor": "Run",
-    "Application._2480.executor": "Run",
-    "Application._2525.executor": "Run",
-    "Application._25304.executor": "Run",
-    "Application._25314.executor": "Run",
-    "Application._2562.executor": "Run",
-    "Application._2588.executor": "Run",
-    "Application._2675.executor": "Run",
-    "Application._2739.executor": "Run",
-    "Application._2743.executor": "Run",
-    "Application._2753.executor": "Run",
-    "Application._27866.executor": "Run",
-    "Application._2884.executor": "Run",
-    "Application._3052.executor": "Run",
-    "Application._5597.executor": "Run",
-    "Application._8393.executor": "Run",
-    "Application._9086.executor": "Run",
-    "Application._9498.executor": "Run",
-    "Application.조건문._15552.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/choemyeong-geun/Desktop/dev/baekjoon_java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.APlusB1000.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1000.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10171.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10172.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10430.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10798.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10807.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10809.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10810.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10811.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10813.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10818.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10869.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10871.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10926.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10950.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10951.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10952.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10988.executor&quot;: &quot;Run&quot;,
+    &quot;Application._109989.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11021.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11022.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11382.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1152.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1157.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11654.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11718.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11720.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1193.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1316.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1330.executor&quot;: &quot;Run&quot;,
+    &quot;Application._1546.executor&quot;: &quot;Run&quot;,
+    &quot;Application._15552.executor&quot;: &quot;Run&quot;,
+    &quot;Application._18108.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2292.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2438.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2439.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2444.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2480.executor&quot;: &quot;Run&quot;,
+    &quot;Application._25083.executor&quot;: &quot;Run&quot;,
+    &quot;Application._25206.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2525.executor&quot;: &quot;Run&quot;,
+    &quot;Application._25304.executor&quot;: &quot;Run&quot;,
+    &quot;Application._25314.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2562.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2563.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2566.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2588.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2675.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2738.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2739.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2743.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2745.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2753.executor&quot;: &quot;Run&quot;,
+    &quot;Application._27866.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2884.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2908.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2941.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3003.executor&quot;: &quot;Run&quot;,
+    &quot;Application._3052.executor&quot;: &quot;Run&quot;,
+    &quot;Application._5597.executor&quot;: &quot;Run&quot;,
+    &quot;Application._5622.executor&quot;: &quot;Run&quot;,
+    &quot;Application._8393.executor&quot;: &quot;Run&quot;,
+    &quot;Application._9086.executor&quot;: &quot;Run&quot;,
+    &quot;Application._9498.executor&quot;: &quot;Run&quot;,
+    &quot;Application.조건문._15552.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/choemyeong-geun/Desktop/dev/baekjoon_java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/out" />
@@ -119,9 +137,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._1152">
-    <configuration name="_10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._10809" />
+  <component name="RunManager" selected="Application._2869">
+    <configuration name="_1193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._1193" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._1152" />
+    <configuration name="_2292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2292" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._11654" />
+    <configuration name="_2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2563" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._11720" />
+    <configuration name="_2745" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2745" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -172,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자와문자열._2675" />
+    <configuration name="_2869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자와문자열._2869" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -187,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._1152" />
-        <item itemvalue="Application._2675" />
-        <item itemvalue="Application._10809" />
-        <item itemvalue="Application._11720" />
-        <item itemvalue="Application._11654" />
+        <item itemvalue="Application._2869" />
+        <item itemvalue="Application._1193" />
+        <item itemvalue="Application._2292" />
+        <item itemvalue="Application._2745" />
+        <item itemvalue="Application._2563" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +234,9 @@
       <workItem from="1718542974082" duration="9459000" />
       <workItem from="1728722048730" duration="23818000" />
       <workItem from="1728992590555" duration="6000" />
-      <workItem from="1730247208518" duration="2784000" />
+      <workItem from="1730247208518" duration="41482000" />
+      <workItem from="1730850251236" duration="8769000" />
+      <workItem from="1731411719977" duration="1188000" />
     </task>
     <servers />
   </component>
