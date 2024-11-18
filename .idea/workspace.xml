@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a796cf1-7271-4fad-8a63-425f6e4975cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/시간복잡도/_24263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시간복잡도/_24264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시간복잡도/_24265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시간복잡도/_24266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시간복잡도/_24267.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +88,7 @@
     "Application._18108.executor": "Run",
     "Application._1978.executor": "Run",
     "Application._2292.executor": "Run",
+    "Application._24264.executor": "Run",
     "Application._2438.executor": "Run",
     "Application._2439.executor": "Run",
     "Application._2444.executor": "Run",
@@ -147,7 +151,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._14215">
+  <component name="RunManager" selected="Application._24264">
     <configuration name="_10101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="기하_직사각형과삼각형._10101" />
       <module name="백준" />
@@ -174,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15894" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기하_직사각형과삼각형._15894" />
+    <configuration name="_24264" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="시간복잡도._24264" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="기하_직사각형과삼각형.*" />
+          <option name="PATTERN" value="시간복잡도.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._24264" />
         <item itemvalue="Application._14215" />
         <item itemvalue="Application._5073" />
         <item itemvalue="Application._10101" />
         <item itemvalue="Application._9063" />
-        <item itemvalue="Application._15894" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +250,7 @@
       <workItem from="1728992590555" duration="6000" />
       <workItem from="1730247208518" duration="41482000" />
       <workItem from="1730850251236" duration="8769000" />
-      <workItem from="1731411719977" duration="25790000" />
+      <workItem from="1731411719977" duration="29398000" />
     </task>
     <servers />
   </component>
